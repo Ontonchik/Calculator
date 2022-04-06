@@ -1,4 +1,3 @@
-
 ################################################################################
 ## Form generated from reading UI file 'calculator.ui'
 ##
@@ -310,6 +309,9 @@ class Ui_MainWindow(object):
         self.b2.setShortcut(QCoreApplication.translate("MainWindow", u"2", None))
 #endif // QT_CONFIG(shortcut)
         self.b5.setText(QCoreApplication.translate("MainWindow", u"5", None))
+#if QT_CONFIG(shortcut)
+        self.b5.setShortcut(QCoreApplication.translate("MainWindow", u"5", None))
+#endif // QT_CONFIG(shortcut)
         self.b7.setText(QCoreApplication.translate("MainWindow", u"7", None))
 #if QT_CONFIG(shortcut)
         self.b7.setShortcut(QCoreApplication.translate("MainWindow", u"7", None))

@@ -362,6 +362,9 @@ border: none;</string>
         <property name="text">
          <string>5</string>
         </property>
+        <property name="shortcut">
+         <string>5</string>
+        </property>
        </widget>
       </item>
       <item row="3" column="0">
