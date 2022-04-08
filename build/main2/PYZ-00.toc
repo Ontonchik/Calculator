@@ -131,6 +131,34 @@
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python37_64\\lib\\importlib\\util.py',
    'PYMODULE'),
+  ('_py_abc',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\quopri.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\getopt.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\bz2.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\_compression.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Program Files (x86)\\Microsoft Visual '
+   'Studio\\Shared\\Python37_64\\lib\\base64.py',
+   'PYMODULE'),
   ('tracemalloc',
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python37_64\\lib\\tracemalloc.py',
@@ -191,10 +219,6 @@
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python37_64\\lib\\pdb.py',
    'PYMODULE'),
-  ('getopt',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python37_64\\lib\\getopt.py',
-   'PYMODULE'),
   ('pydoc',
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python37_64\\lib\\pydoc.py',
@@ -227,17 +251,9 @@
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python37_64\\lib\\gzip.py',
    'PYMODULE'),
-  ('_compression',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python37_64\\lib\\_compression.py',
-   'PYMODULE'),
   ('lzma',
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python37_64\\lib\\lzma.py',
-   'PYMODULE'),
-  ('bz2',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python37_64\\lib\\bz2.py',
    'PYMODULE'),
   ('email.message',
    'C:\\Program Files (x86)\\Microsoft Visual '
@@ -291,10 +307,6 @@
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python37_64\\lib\\email\\_encoded_words.py',
    'PYMODULE'),
-  ('base64',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python37_64\\lib\\base64.py',
-   'PYMODULE'),
   ('email.charset',
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python37_64\\lib\\email\\charset.py',
@@ -338,10 +350,6 @@
   ('email.feedparser',
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python37_64\\lib\\email\\feedparser.py',
-   'PYMODULE'),
-  ('quopri',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python37_64\\lib\\quopri.py',
    'PYMODULE'),
   ('uu',
    'C:\\Program Files (x86)\\Microsoft Visual '
@@ -538,14 +546,6 @@
   ('fnmatch',
    'C:\\Program Files (x86)\\Microsoft Visual '
    'Studio\\Shared\\Python37_64\\lib\\fnmatch.py',
-   'PYMODULE'),
-  ('stringprep',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python37_64\\lib\\stringprep.py',
-   'PYMODULE'),
-  ('_py_abc',
-   'C:\\Program Files (x86)\\Microsoft Visual '
-   'Studio\\Shared\\Python37_64\\lib\\_py_abc.py',
    'PYMODULE'),
   ('calculator',
    'C:\\Users\\sveta\\PycharmProjects\\test\\calculator.py',
